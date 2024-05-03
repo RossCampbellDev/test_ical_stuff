@@ -10,6 +10,7 @@ UID:3@localhost
 ATTENDEE:mailto:Admin_3@test.com
 LAST-MODIFIED:20240502T101856Z
 ORGANIZER:mailto:Admin_3@test.com
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project Manager 5 DEAD
@@ -20,6 +21,7 @@ UID:7@localhost
 ATTENDEE:mailto:Project_Manager_5@test.com
 LAST-MODIFIED:20240502T102108Z
 ORGANIZER:mailto:Project_Manager_5@test.com
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project Manager 18 Unavailable
@@ -30,6 +32,7 @@ UID:6@localhost
 ATTENDEE:mailto:Project_Manager_18@test.com
 LAST-MODIFIED:20240502T102044Z
 ORGANIZER:mailto:Project_Manager_18@test.com
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Developer 14 Unavailable
@@ -40,6 +43,7 @@ UID:4@localhost
 ATTENDEE:mailto:Developer_14@test.com
 LAST-MODIFIED:20240502T102002Z
 ORGANIZER:mailto:Developer_14@test.com
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Developer 19 see inside
@@ -51,5 +55,6 @@ UID:5@localhost
 ATTENDEE:mailto:Developer_19@test.com
 LAST-MODIFIED:20240502T102021Z
 ORGANIZER:mailto:Developer_19@test.com
+SEQUENCE:2
 END:VEVENT
 END:VCALENDAR
